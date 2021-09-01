@@ -10,9 +10,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=windfallw&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windfallw&layout=compact&hide=html,css)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=windfallw&count_private=true&show_icons=true" />
+</a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windfallw&layout=compact&hide=html,css" />
+</a>
 
 
