@@ -12,11 +12,10 @@
 -->
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=windfallw&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=windfallw&count_private=true&show_icons=true" alt="GitHub Stats Card" />
 </a>
-
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windfallw&layout=compact&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windfallw&layout=compact&hide=html,css" alt="Top Languages Card" />
 </a>
 
 
