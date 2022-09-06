@@ -1,6 +1,9 @@
-### Hi there~
- 
- <!--
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=windfallw&count_private=true&show_icons=true&hide_border=true" alt="GitHub stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windfallw&layout=compact&hide=html,css&hide_border=true" alt="Top Langs" /></a> |
+| ------------- | ------------- |
+
+
+Hi there 👋
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,11 +12,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windfallw&layout=compact&hide=html,css)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=windfallw&count_private=true&show_icons=true)
-
-
-
