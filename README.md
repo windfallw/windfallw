@@ -1,16 +1,22 @@
-<h2>Hi there 👋</h1>
+<h3>Hi there 👋</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=windfallw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
 
 <h3>balabala!@#$%^&*</h3>
 
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: hi(AT)windfallw.com
+- 💬 Ask me about anything
+- 🙄 Thanks to the zero-COVID policy, gradually losing dream now
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: hi(AT)windfallw.com
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <details>
     <summary> 😶 Click me to see the skill tree 🌳 </summary>
@@ -36,7 +42,7 @@
 </p>
 
 
-<h3 align="left">Frontend & Backend & Web servers & Databases</h3>
+<h3 align="left">Frontend & Backend & Web Servers & Databases</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40" />
