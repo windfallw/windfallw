@@ -1,10 +1,10 @@
-<h3>Hi there 👋</h3>
+<h2>Hi there 👋</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=windfallw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
 
 <h3>balabala!@#$%^&*</h3>
 
-- 🌱 I’m currently learning ...
+<!-- - 🌱 I’m currently learning ... -->
 - 📫 How to reach me: hi(AT)windfallw.com
 - 💬 Ask me about anything
 - 🙄 Thanks to the zero-COVID policy, gradually losing dream now
