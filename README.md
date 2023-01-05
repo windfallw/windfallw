@@ -4,10 +4,10 @@
 
 <h3>balabala!@#$%^&*</h3>
 
-<!-- - 🌱 I’m currently learning ... -->
+<!-- - 🌱 I’m currently learning ![RUST](https://img.shields.io/badge/Rust-red.svg?logo=Rust&logoColor=white&style=flat-square) -->
 - 📫 How to reach me: hi(AT)windfallw.com
 - 💬 Ask me about anything
-- 🙄 Thanks to the zero-COVID policy, gradually losing dream now
+- 🙄 <del>Thanks to the zero-COVID policy, gradually losing dream now</del>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
