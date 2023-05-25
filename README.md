@@ -2,12 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=windfallw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" /> </p>
 
-<h3>balabala!@#$%^&*</h3>
-
 <!-- - 🌱 I’m currently learning ![RUST](https://img.shields.io/badge/Rust-red.svg?logo=Rust&logoColor=white&style=flat-square) -->
 - 📫 How to reach me: github(AT)windfallw.com
 - 💬 Ask me about anything
-- 🙄 <del>Thanks to the zero-COVID policy, gradually losing dream now</del>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
